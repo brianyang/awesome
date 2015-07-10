@@ -65,6 +65,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Wijmo] (http://wijmo.com/)
 - [iUI] (http://www.iui-js.org/)
 - [M-Project] (http://www.the-m-project.org/)
+- [appUI] (http://triceam.github.io/app-UI/)
 - [Junior] (http://justspamjustin.github.io/junior/#home)
 - [Moobile] (http://moobilejs.com/#demo)
 - [ChocolateChip-UI] (http://chocolatechip-ui.com/)
